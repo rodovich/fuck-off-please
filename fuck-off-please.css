@@ -5,6 +5,6 @@
 .superfab-aitextgeneratormenu-button, /* docs: "Help me write" */
 .aiSuggestedActionsViewContainer, /* docs: "Summarize this document" */
 .aiTextRefineOnPasteBubbleContainer, /* docs: "Refine with Gemini" */
-.appsElementsSidekickEntryPointRoot /* docs: "Ask Gemini" {
+.appsElementsSidekickEntryPointRoot /* docs: "Ask Gemini" */ {
   display: none !important;
 }
