@@ -1,10 +1,16 @@
-.Zmxtcf /* mail: "Ask Gemini" */,
+.uW2Fw-JD, /* mail: "Draft emails confidently with Gemini" */
+.uW2Fw-Sx9Kwc, /* meet: "Express yourself with an AI-generated background" */
+.appsElementsWorkspaceRecommendationContentDialogContainer, /* docs: "Quickly summarize documents" */
+.Zmxtcf, /* mail: "Ask Gemini" */
 .jKzJCd,
 .brJ, /* mail: "Help me write" */
+.einvLd, /* mail: "Summarize this email" */
 .M8OgIe, /* search: "AI Overview" */
+.FormulaBarContainerGeminiSummarizeButton, /* sheets: "Summarize this table" */
 .superfab-aitextgeneratormenu-button, /* docs: "Help me write" */
 .aiSuggestedActionsViewContainer, /* docs: "Summarize this document" */
 .aiTextRefineOnPasteBubbleContainer, /* docs: "Refine with Gemini" */
+.inlineFabBubbleContainer, /* docs: sparkly pencil button */
 .appsElementsSidekickEntryPointRoot /* docs: "Ask Gemini" */ {
   display: none !important;
 }
