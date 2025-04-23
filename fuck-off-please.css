@@ -11,6 +11,9 @@
 .aiSuggestedActionsViewContainer, /* docs: "Summarize this document" */
 .aiTextRefineOnPasteBubbleContainer, /* docs: "Refine with Gemini" */
 .inlineFabBubbleContainer, /* docs: sparkly pencil button */
-.appsElementsSidekickEntryPointRoot /* docs: "Ask Gemini" */ {
+.appsElementsSidekickEntryPointRoot, /* docs: "Ask Gemini" */
+.uW2Fw-k, /* drive: "Quick answers from your files" */
+#WWNEkf /* drive: "Ask Gemini" */
+{
   display: none !important;
 }
